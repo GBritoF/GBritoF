@@ -12,7 +12,7 @@
 </p>
 
 <p align="left" >
-Atualmente Moro em Recife/PE.<br />
+Atualmente Moro em Juiz de Fora/MG.<br />
 E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
 
 
