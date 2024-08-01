@@ -13,7 +13,7 @@
 
 <p align="left" >
 Atualmente Moro em Juiz de Fora/MG.<br />
-E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
+ <b>Developer Full-Stack </b>.
 
 
 
@@ -26,12 +26,13 @@ E estou me capacitando para me tornar um  <b>Developer Full-Stack </b>.
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/84404364/126012080-20f34f9d-2fb1-4430-a960-02eea698a36d.png" width="395px" />
 
-- 👨🏽‍💻 Estou estudando  **BACK-END** e me  especializando em **React**;
+- 👨🏽‍💻 Aperfeiçoando minhas habilidades em  **BACK-END** e me  especializando em **React**.;
  
 - 💼  Tenho paixão por tecnologia, por isso estou sempre estudando e evoluindo na minha carreira: 
   - Estudar;
   - Ler Livros;
-  - Academia;
+  - Jogos;
+    
 - 💬Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 
 
